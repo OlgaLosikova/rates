@@ -63,6 +63,6 @@
 }
 .select{
   height: 40vh;
-  box-shadow: 0 0 5px 5px rgba(148, 148, 148, 0.2);;
+  box-shadow: 0 0 5px 5px rgba(148, 148, 148, 0.2);
   z-index: 1;
 }
